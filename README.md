@@ -14,12 +14,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=사용자명&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seeungsikhong&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seeungsikhong&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=사용자명&label=Profile%20views&color=0e75b6&style=flat" alt="사용자명" />
+  <img src="https://komarev.com/ghpvc/?username=seeungsikhong&label=Profile%20views&color=0e75b6&style=flat" alt="seeungsikhong" />
 </div>
 
 <div align="center">
