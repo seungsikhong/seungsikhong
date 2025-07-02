@@ -25,3 +25,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+<!-- GitHub 통계 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seungsikhong&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungsikhong&theme=radical&hide_border=true" />
+</div>
+
+<!-- 언어 통계 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungsikhong&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<!-- 활동 그래프 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seungsikhong&theme=github-compact" />
+</div>
